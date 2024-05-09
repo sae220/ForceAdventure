@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "Force Adventure",
+        "uuid": "af65dd3a-4916-34e4-4385-f16f03599991",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 20, 12 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "7949d318-64c2-4e3a-6a90-3452029a52bd",
+            "version": [0, 0, 1]
+        }
+    ]
+}
